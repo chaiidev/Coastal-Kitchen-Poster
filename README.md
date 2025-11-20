@@ -11,7 +11,7 @@ This design highlights seafood, chicken dishes, and vibrant coastal elements.
 
 ## 📸 Preview
 ### Without Tagline
-![Poster Without Tagline](https://raw.githubusercontent.com/USERNAME/REPO/main/without-tagline.png)
+![Poster Without Tagline](https://github.com/chaiidev/Coastal-Kitchen-Poster/blob/main/Coastal-Kitchen1.png)
 
 ### With Tagline
 ![Poster With Tagline](https://raw.githubusercontent.com/USERNAME/REPO/main/with-tagline.png)
